@@ -1,3 +1,4 @@
+package Map_Basic;
 
 public class Bataille {
 
@@ -5,6 +6,7 @@ public class Bataille {
 		// TODO Auto-generated method stub
 		// modif
 		System.out.println("lol");
+		// autre modif
 
 	}
 
