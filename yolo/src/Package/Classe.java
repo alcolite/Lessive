@@ -2,6 +2,6 @@ package Package;
 
 public class Classe {
 	
-	// salut
+	// salut encore une modif
 
 }
