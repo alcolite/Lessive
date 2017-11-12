@@ -7,6 +7,7 @@ public class Bataille {
 		// TODO Auto-generated method stub
 		// modif
 		System.out.println("lol");
+		// 1ere modif
 		
 	}
 
