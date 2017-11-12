@@ -8,6 +8,7 @@ public class Bataille {
 		System.out.println("lol");
 		// autre modif
 		// autre modif 2
+		// autre modif 3
 
 	}
 
