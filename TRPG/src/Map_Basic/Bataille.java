@@ -9,6 +9,10 @@ public class Bataille {
 		// autre modif
 		// modif ju 2
 		// autre modif 2
+		// autre modif
+		// autre modif 2
+		// autre modif 3
+
 	}
 
 }
