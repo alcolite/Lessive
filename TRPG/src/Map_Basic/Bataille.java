@@ -6,7 +6,7 @@ public class Bataille {
 		
 		// TODO Auto-generated method stub
 		System.out.println("lol");
-		
+		//SAP
 	}
 
 }
