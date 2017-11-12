@@ -7,7 +7,7 @@ public class Bataille {
 		// modif
 		System.out.println("lol");
 		// autre modif
-		// modif ju
+		// modif ju 2
 	}
 
 }
