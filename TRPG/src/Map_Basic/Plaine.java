@@ -1,5 +1,5 @@
 package Map_Basic;
 
-public class Plaine extends Casse {
+public class Plaine extends Case {
 
 }

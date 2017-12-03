@@ -1,5 +1,5 @@
 package Map_Basic;
 
-public class Foret extends Casse {
+public class Foret extends Case {
 
 }

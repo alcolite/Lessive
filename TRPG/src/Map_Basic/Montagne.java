@@ -1,5 +1,5 @@
 package Map_Basic;
 
-public class Montagne extends Casse {
+public class Montagne extends Case {
 
 }

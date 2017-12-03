@@ -1,6 +1,13 @@
 package Map_Basic;
 
 
-public class Carte extends Bataille {
+public class Carte  {
+	
+	
+	
+	
+	
+	private Case caseDeLaCarte; 
+	
 	
 }
