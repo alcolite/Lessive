@@ -38,7 +38,7 @@ public class Bataille{
 		
 		Bataille nouvelleBataille2=new Bataille("waterloo");
 		
-		System.out.println("maBataille : "+nouvelleBataille);
+		System.out.println("maBataille : "+nouvelleBataille2);
 		
 		nouvelleBataille.aficherBataille();
 		
