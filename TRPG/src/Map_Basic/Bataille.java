@@ -20,31 +20,39 @@ public class Bataille{
 	
     public void aficherBataille() {
     	
-    	Scanner in=new Scanner(System.in);
     	
-    	System.out.println(this.nomDeLaBataille);
+    	
+    	
     	System.out.println(this.champDeBataille);
     	
-    	in.nextLine();
+    	System.out.println(this.nomDeLaBataille);
+    
     	
     	
 	}
     
 	public static void main(String[] args) {
 
+		Scanner in=new Scanner(System.in);
+		
+		String str;
+		str = in.nextLine();
+		
+		Bataille nouvelleBataille=new Bataille(str);
 		
 		
-		Bataille nouvelleBataille=new Bataille("Le goufre de helm");
+		Bataille nouvelleBataille2=new Bataille(str);
 		
-		Bataille nouvelleBataille2=new Bataille("waterloo");
-		
-		System.out.println("maBataille : "+nouvelleBataille2);
 		
 		nouvelleBataille.aficherBataille();
 		
-		System.out.println("maBataille");
+	in.nextLine();
 		
-
+		nouvelleBataille2.aficherBataille();
+		
+	in.nextLine();
+		
+		in.close();
 	}
 	
 
